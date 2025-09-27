@@ -1,3 +1,3 @@
 # bankapp
 
-study project MAIN BRANCH
+study project NEW BRANCH
